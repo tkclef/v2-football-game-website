@@ -1,30 +1,13 @@
-# Football game website
+V2 | The Game Project
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Redefining Football, Brotherhood, and Power
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/tkclefofficial-3040s-projects/v0-football-game-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/b1zASb7T1Sh)
+🔥 Overview
+V2 is a high-intensity football action game inspired by Victor Osimhen and Victor Boniface, blending sports, storytelling, and cinematic gameplay. Built in Unreal Engine, it captures the spirit of rivalry, unity, and ambition — where every match tells a story and every move defines legacy.
 
-## Overview
+🎮 Experience the Energy. Live the Victory.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+🛠 Developed by xDegree 
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/tkclefofficial-3040s-projects/v0-football-game-website](https://vercel.com/tkclefofficial-3040s-projects/v0-football-game-website)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/b1zASb7T1Sh](https://v0.app/chat/projects/b1zASb7T1Sh)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+🌐 Live Website
+Explore more here: 🔗 V2 Official Page￼
